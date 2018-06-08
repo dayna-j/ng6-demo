@@ -1,3 +1,5 @@
+This is a small angular app which I created in the process of learning the angular architecture.
+
 # Ng6
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
